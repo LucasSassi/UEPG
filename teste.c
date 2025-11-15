@@ -13,6 +13,6 @@ int exercicioTeste(int n){
 int main(){
 
 int n;
-n = exercicioTeste(4);
+n = exercicioTeste(4); 
 printf("\n%d\n", n);
 }
